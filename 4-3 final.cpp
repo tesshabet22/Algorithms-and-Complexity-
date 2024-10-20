@@ -1,3 +1,5 @@
+// Boston Beatty, Tessa Habet, and Grant Bytnar
+
 #include <iostream>
 #include <string>
 #include <random>
